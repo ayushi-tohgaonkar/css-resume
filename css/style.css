@@ -1,0 +1,266 @@
+body{
+    margin: 0px;
+   
+}
+.navigation-bar{
+    background-color: #aeefec;
+    height: 150px;
+    
+    display: block;
+}
+.profile
+{
+    width: 120px;
+    height: 110px;
+    position: relative;
+    left: 100px;
+    margin-top: 20px;
+}
+.navclick{
+    display: inline;
+    color: #011a0f;
+    font-size: 30px;
+    font-family:monospace ;
+position: relative;
+left: 60%;
+padding-left: 20px;
+padding-right: 20px;
+bottom: 70px;
+
+
+}
+.navclick:hover{
+    background-color: #09746e;
+    border-radius: 5px;
+}
+
+
+.top{
+    background-color:#aeefec;
+    
+    height: 875px;
+    width:100%;
+    display: inline-block;
+}
+.cloud{
+    position: relative;
+    height: 100px;
+    width: 250px;
+    left: 20%;
+    top: 40px;
+    
+}
+.midcloud{
+    position: relative;
+    height: 100px;
+    width: 250px;
+    left: 60%;
+    bottom: 650px;
+    
+}
+.name{
+    font-size: xx-large;
+font-family: 'Courgette', cursive;
+    position: relative;
+    left:40% ;
+    top:50px;
+    text-shadow: 5px 5px #99b898;
+}
+
+.webdesigner{
+    font-size: x-large;
+    position: relative;
+    left: 43%;
+    top: 50px;
+font-family: cursive;
+}
+.cloud1{
+    position: relative;
+    height: 100px;
+    width: 250px;
+    left: 70%;
+    bottom: 400px;
+}
+
+.mountain{
+    position: relative;
+    height: 500px;
+    width: 900px;
+    
+    top: 90px;
+}
+
+.middle{
+    height: auto;
+    background-color:  rgb(255, 205, 214);
+    width: 100%;
+    position: relative;
+}
+.profiletop{
+top: 80px;
+    position: relative;
+    left: 45%;
+    height: 170px;
+    width: 180px;
+border: 1px solid black;
+border-radius: 50%;
+padding: 3px;
+
+}
+.title{
+    left: 49%;
+    position: relative;
+    
+    top: 90px;
+    font-size:xx-large;
+}
+.description{
+    left:38%;
+    position: relative;
+    top: 50px;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.dot{
+    position: relative;
+    left: 48%;
+    top:60px ;
+    font-size:40px;
+    color: rgb(194, 194, 194);
+}
+.what{
+    position: relative ;
+    left: 40%;
+    font-size: 60px;
+    top: 90px;
+
+}
+.biggirl{
+    position: relative;
+    top: 90px;
+    left: 30%;
+    height: 300px;
+    width: 150px;
+}
+.whatican{
+    font-size: xx-large;
+    left: 45%;
+    bottom: 190px;
+    position: relative;
+}
+.des1{
+    position: relative;
+    left: 45%;
+bottom: 180px;
+    font-size: x-large;
+    font-family: cursive;
+}
+.develop{
+    font-size: xx-large;
+    left:25%;
+    position: relative;
+    bottom: 90px;
+}
+.des2{
+    position: relative;
+    font-size: x-large;
+    font-family: cursive;
+    left: 25%;
+    bottom:80px ;
+}
+.girl{
+    position: relative;
+    left: 55%;
+    height: 300px;
+    width: 150px;
+    bottom:320px ;
+}
+.dot1{
+    position: relative;
+    left: 48%;
+bottom:250px ;
+    font-size:40px;
+    color: rgb(194, 194, 194);
+}
+
+.icando{
+    position: relative;
+    left: 42%;
+    font-size: 60px;
+    bottom:200px ;
+}
+.current{
+    font-size: xx-large;
+    left: 35%;
+    bottom: 220px;
+    position: relative;
+}
+
+.des3{
+    left:30%;
+    position: relative;
+    bottom: 210px;
+    font-size: x-large;
+    font-family: cursive;
+
+
+}
+.message {
+    
+   
+    position: relative;
+    left: 43%;
+    bottom: 143px;
+   height: 45px;
+width: 65px;
+   
+}
+.msg-box {
+position: relative;
+padding: 15px 30px 15px 30px;
+background:#e594a3;
+bottom:360px;
+height: 60px;
+
+width: 150px;
+left: 960px;
+
+text-decoration-color: black;
+font-size: 19px;
+text-align: center;
+color: black;
+}
+.msg-box:hover{
+    background-color: #065e59;
+}
+
+
+.footer{
+    background-color: #aeefec;
+    height:180px;
+    position: relative;
+    margin: 0px;
+    display: block; 
+  bottom: 25px;
+}
+
+.downclick{
+    display: inline;
+    color: #011a0f;
+    font-size: 25px;
+    font-family:cursive ;
+position: relative;
+left: 40%;
+padding-left: 20px;
+padding-right: 20px;
+top: 25px;
+}
+
+.rights{
+    color: #011a0f;
+    font-size: 19px;  
+    position: relative;
+    left: 38%;
+top:60px ;
+}

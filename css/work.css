@@ -1,0 +1,253 @@
+body{
+    margin: 0px;
+   padding: 0px;
+}
+.navigation-bar{
+    background-color: #aeefec;
+    height: 150px;
+    
+    display: block;
+}
+.profile
+{
+    width: 100px;
+    height: 90px;
+    position: relative;
+    left: 100px;
+    margin-top: 20px;
+}
+.navclick{
+    display: inline;
+    color: #011a0f;
+    font-size: 25px;
+    font-family:monospace ;
+position: relative;
+left: 60%;
+padding-left: 20px;
+padding-right: 20px;
+bottom: 70px;
+}
+
+.top{
+    background-color:#aeefec;
+    
+    height: 475px;
+    width:100%;
+    display: inline-block;
+}
+.cloud{
+    position: relative;
+    height: 100px;
+    width: 250px;
+    left: 20%;
+    top: 40px;
+    
+}
+
+.midcloud{
+    position: relative;
+    height: 100px;
+    width: 250px;
+    left: 68%;
+    bottom: 130px;
+    
+}
+.name{
+    font-size: xx-large;
+font-family: 'Courgette', cursive;
+    position: relative;
+    left:43% ;
+    top:50px;
+    text-shadow: 5px 5px #99b898;
+}
+.flag1{
+    position: relative;
+    height: 120px;
+    width: 90px;
+    top: 88px;
+    left: 5%;
+}
+
+.flag2{
+    position: relative;
+    height: 120px;
+    width: 90px;
+    top: 88px;
+    left: 44%;
+}
+.layer1{
+    position: relative;
+    height: 380px;
+    width: 100vw;
+    background-color: rgb(255, 205, 214);
+}
+.sharp{
+    top: 80px;
+    position: relative;
+    left: 45%;
+    height: 90px;
+    width: 100px;
+border: 1px solid black;
+border-radius: 50%;
+padding: 1px;
+
+}
+.title{
+    left: 42%;
+    position: relative;
+    
+    top:85px;
+    font-size:x-large;
+}
+.description{
+    left:33%;
+    position: relative;
+    top: 50px;
+    font-size: 18px;
+    font-family: cursive;
+}
+.layer2{
+    position: relative;
+    height: 500px;
+    width: 100vw;
+    background-color: #aeefec;
+}
+.q1{
+    position: relative;
+    height: 180px;
+    width: 180px;
+    left: 43%;
+    top: 80px;
+}
+.programing{
+    left: 44%;
+    position: relative;
+    
+    top:85px;
+    font-size:xx-large;
+}
+.des1{
+    left:33%;
+    position: relative;
+    top: 100px;
+    font-size: 18px;
+    font-family: cursive;
+}
+.layer3{
+    position: relative;
+    height: 1100px;
+    width: 100vw;
+    background-color: rgb(255, 205, 214);
+
+}
+.office{
+    position: relative;
+    height: 200px;
+    width: 210px;
+    left: 43%;
+    top: 80px;
+}
+
+.intern{
+    left: 37%;
+    position: relative;
+    
+    top:85px;
+    font-size:xx-large;
+}
+
+.des2{
+    left:33%;
+    position: relative;
+    top: 100px;
+    font-size: 18px;
+    font-family: cursive; 
+}
+
+
+.dot1{
+    position: relative;
+    left: 48%;
+    top:90px ;
+    font-size:40px;
+    color: rgb(194, 194, 194);
+}
+
+.icando{
+    position: relative;
+    left: 44%;
+    font-size: 40px;
+    top :80px;
+}
+.current{
+    font-size:x-large;
+    left: 36%;
+    top:55px ;
+    position: relative;
+}
+
+.des3{
+    left:30%;
+    position: relative;
+    top: 55px;
+    font-size: 19px;
+    font-family: cursive;
+}
+
+
+.message {
+    position: relative;
+    left: 43%;
+    top: 94px;
+   height: 37px;
+width: 50px;
+   
+}
+.msg-box {
+position: relative;
+padding: 10px 20px 10px 20px;
+background:#e594a3;
+bottom: 380px;
+height: 20px;
+
+width: 90px;
+left: 48%;
+
+text-decoration-color: black;
+font-size: 15px;
+text-align: center;
+color: black;
+}
+.msg-box:hover{
+    background-color: #065e59;
+}
+
+
+.footer{
+    background-color: #aeefec;
+    height:180px;
+    position: relative;
+    margin: 0px;
+    display: block; 
+  bottom: 25px;
+}
+
+.downclick{
+    display: inline;
+    color: #011a0f;
+    font-size:18px;
+    font-family:cursive ;
+position: relative;
+left: 38%;
+padding-left: 20px;
+padding-right: 20px;
+top: 25px;
+}
+
+.rights{
+    color: #011a0f;
+    font-size: 15px;  
+    position: relative;
+    left: 37%;
+top:60px ;
+}
